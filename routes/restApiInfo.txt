@@ -1,0 +1,11 @@
+Product:
+
+GET All => get all the available products.
+
+GET /:productId => get the product based on the ID.
+
+POST /save => to save new products information
+
+DELETE /delete/:docId => To delete a product using productId
+
+PUT /update => To update an existing product information.
